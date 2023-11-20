@@ -3570,6 +3570,8 @@ paths:
                   type: string
                 email:
                   type: string
+                selectedservice:
+                  type: string
               required:
                 - username
                 - password
